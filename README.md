@@ -60,3 +60,6 @@ This keeps UI + data pipeline testable without external auth/tokens.
 - Spotify token refresh is not implemented yet (re-auth when token expires).
 - CSV export is renderer-initiated download.
 - Unsigned dmg (Gatekeeper warnings expected).
+
+## Alpha artifact
+- DMG output: `dist/SpotifyDiscogsAlpha-0.1.0-arm64.dmg`
