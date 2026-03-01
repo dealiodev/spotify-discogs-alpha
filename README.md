@@ -14,7 +14,8 @@ MVP desktop app for macOS that:
 
 ## Setup
 ```bash
-cd /Users/sabo/projects/spotify-discogs-alpha
+git clone https://github.com/dealiodev/spotify-discogs-alpha.git
+cd spotify-discogs-alpha
 npm install
 ```
 
